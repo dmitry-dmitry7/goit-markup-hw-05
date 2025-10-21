@@ -779,7 +779,7 @@ input[type='checkbox']:checked+.agreement-wrapper>.agreement-checkbox {
     background-color: #404bbf;
     border: none;
     fill: #f4f4fd;
-
+    color: #f4f4fd;
 }
 
 .agreement-checkbox-icon {
