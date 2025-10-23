@@ -766,7 +766,6 @@ img {
     height: 16px;
     border: 1px solid rgba(46, 47, 66, 0.4);
     margin-right: 8px;
-    color: transparent;
     border-radius: 2px;
     cursor: pointer;
 
@@ -777,11 +776,6 @@ input[type='checkbox']:checked+.agreement-wrapper>.agreement-checkbox {
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;
-    color: #f4f4fd;
-}
-
-.agreement-checkbox-icon {
-    fill: currentColor;
 }
 
 .agreement-link {
